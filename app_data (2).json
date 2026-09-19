@@ -1,0 +1,195 @@
+{
+    "wallpapers": [
+        "wallpapers/W1.jpg",
+        "wallpapers/W2.jpg",
+        "wallpapers/W3.jpg",
+        "wallpapers/W4.jpg",
+        "wallpapers/W5.png",
+        "wallpapers/W6.jpg",
+        "wallpapers/W7.jpg",
+        "wallpapers/W8.jpg",
+        "wallpapers/W9.png",
+        "wallpapers/W10.png",
+        "wallpapers/W11.jpg",
+        "wallpapers/W12.jpg",
+        "wallpapers/W13.jpg",
+        "wallpapers/W14.jpg",
+        "wallpapers/W15.jpg",
+        "wallpapers/W16.jpg",
+        "wallpapers/W17.jpg",
+        "wallpapers/W18.jpg",
+        "wallpapers/W19.jpg",
+        "wallpapers/W20.jpg",
+        "wallpapers/W21.jpg",
+        "wallpapers/W22.jpg",
+        "wallpapers/W23.jpg",
+        "wallpapers/W24.jpg",
+        "wallpapers/W25.jpg",
+        "wallpapers/W26.jpg",
+        "wallpapers/W27.jpg",
+        "wallpapers/W28.jpg",
+        "wallpapers/W29.jpg",
+        "wallpapers/W30.png",
+        "wallpapers/W31.jpg",
+        "wallpapers/W32.jpg",
+        "wallpapers/W33.jpg",
+        "wallpapers/W34.jpg",
+        "wallpapers/W35.jpg",
+        "wallpapers/W36.jpg",
+        "wallpapers/W37.jpg",
+        "wallpapers/W38.png",
+        "wallpapers/W39.jpg",
+        "wallpapers/W40.jpg",
+        "wallpapers/W41.png",
+        "wallpapers/W42.jpg",
+        "wallpapers/W43.jpg",
+        "wallpapers/W44.jpg",
+        "wallpapers/W45.jpg",
+        "wallpapers/W46.png",
+        "wallpapers/W47.png",
+        "wallpapers/W48.jpg",
+        "wallpapers/W49.jpg",
+        "wallpapers/W50.jpg",
+        "wallpapers/W51.png",
+        "wallpapers/W52.png",
+        "wallpapers/W53.png",
+        "wallpapers/W54.jpg",
+        "wallpapers/W55.png",
+        "wallpapers/W56.jpg",
+        "wallpapers/W57.png",
+        "wallpapers/W58.png",
+        "wallpapers/W59.png",
+        "wallpapers/W60.jpg",
+        "wallpapers/W61.jpg",
+        "wallpapers/W62.jpg"
+    ],
+    "live_wallpapers": [
+        {
+            "video": "live_wallpapers/L1.mp4",
+            "thumbnail": "live_wallpapers/L1.png"
+        },
+        {
+            "video": "live_wallpapers/L2.mp4",
+            "thumbnail": "live_wallpapers/L2.png"
+        },
+        {
+            "video": "live_wallpapers/L3.mp4",
+            "thumbnail": "live_wallpapers/L3.png"
+        },
+        {
+            "video": "live_wallpapers/L4.mp4",
+            "thumbnail": "live_wallpapers/L4.png"
+        },
+        {
+            "video": "live_wallpapers/L5.mp4",
+            "thumbnail": "live_wallpapers/L5.png"
+        },
+        {
+            "video": "live_wallpapers/L6.mp4",
+            "thumbnail": "live_wallpapers/L6.png"
+        },
+        {
+            "video": "live_wallpapers/L7.mp4",
+            "thumbnail": "live_wallpapers/L7.png"
+        },
+        {
+            "video": "live_wallpapers/L8.mp4",
+            "thumbnail": "live_wallpapers/L8.png"
+        },
+        {
+            "video": "live_wallpapers/L9.mp4",
+            "thumbnail": "live_wallpapers/L9.png"
+        },
+        {
+            "video": "live_wallpapers/L10.mp4",
+            "thumbnail": "live_wallpapers/L10.png"
+        },
+        {
+            "video": "live_wallpapers/L11.mp4",
+            "thumbnail": "live_wallpapers/L11.png"
+        },
+        {
+            "video": "live_wallpapers/L12.mp4",
+            "thumbnail": "live_wallpapers/L12.png"
+        },
+        {
+            "video": "live_wallpapers/L13.mp4",
+            "thumbnail": "live_wallpapers/L13.png"
+        },
+        {
+            "video": "live_wallpapers/L14.mp4",
+            "thumbnail": "live_wallpapers/L14.png"
+        },
+        {
+            "video": "live_wallpapers/L15.mp4",
+            "thumbnail": "live_wallpapers/L15.png"
+        },
+        {
+            "video": "live_wallpapers/L16.mp4",
+            "thumbnail": "live_wallpapers/L16.png"
+        },
+        {
+            "video": "live_wallpapers/L17.mp4",
+            "thumbnail": "live_wallpapers/L17.png"
+        },
+        {
+            "video": "live_wallpapers/L18.mp4",
+            "thumbnail": "live_wallpapers/L18.png"
+        },
+        {
+            "video": "live_wallpapers/L19.mp4",
+            "thumbnail": "live_wallpapers/L19.png"
+        },
+        {
+            "video": "live_wallpapers/L20.mp4",
+            "thumbnail": "live_wallpapers/L20.png"
+        },
+        {
+            "video": "live_wallpapers/L21.mp4",
+            "thumbnail": "live_wallpapers/L21.png"
+        },
+        {
+            "video": "live_wallpapers/L22.mp4",
+            "thumbnail": "live_wallpapers/L22.png"
+        },
+        {
+            "video": "live_wallpapers/L23.mp4",
+            "thumbnail": "live_wallpapers/L23.png"
+        }
+    ],
+    "keyboards": [
+        "keyboards/K1.jpg",
+        "keyboards/K2.jpg",
+        "keyboards/K3.jpg",
+        "keyboards/K4.jpg",
+        "keyboards/K5.jpg",
+        "keyboards/K6.jpg",
+        "keyboards/K7.jpg",
+        "keyboards/K8.jpg"
+    ],
+    "zipper": [],
+    "house_ideas": [],
+    "widgets": {
+        "calendar": [
+            "wallpapers/W1.jpg",
+            "wallpapers/W2.jpg",
+            "wallpapers/W3.jpg",
+            "wallpapers/W4.jpg",
+            "wallpapers/W5.png"
+        ],
+        "clock": [
+            "wallpapers/W6.jpg",
+            "wallpapers/W7.jpg",
+            "wallpapers/W8.jpg",
+            "wallpapers/W9.png",
+            "wallpapers/W10.png"
+        ],
+        "digital_clock": [
+            "wallpapers/W11.jpg",
+            "wallpapers/W12.jpg",
+            "wallpapers/W13.jpg",
+            "wallpapers/W14.jpg",
+            "wallpapers/W15.jpg"
+        ]
+    }
+}
