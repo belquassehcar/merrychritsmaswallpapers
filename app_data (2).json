@@ -1,195 +1,210 @@
 {
-    "wallpapers": [
-        "wallpapers/W1.jpg",
-        "wallpapers/W2.jpg",
-        "wallpapers/W3.jpg",
-        "wallpapers/W4.jpg",
-        "wallpapers/W5.png",
-        "wallpapers/W6.jpg",
-        "wallpapers/W7.jpg",
-        "wallpapers/W8.jpg",
-        "wallpapers/W9.png",
-        "wallpapers/W10.png",
-        "wallpapers/W11.jpg",
-        "wallpapers/W12.jpg",
-        "wallpapers/W13.jpg",
-        "wallpapers/W14.jpg",
-        "wallpapers/W15.jpg",
-        "wallpapers/W16.jpg",
-        "wallpapers/W17.jpg",
-        "wallpapers/W18.jpg",
-        "wallpapers/W19.jpg",
-        "wallpapers/W20.jpg",
-        "wallpapers/W21.jpg",
-        "wallpapers/W22.jpg",
-        "wallpapers/W23.jpg",
-        "wallpapers/W24.jpg",
-        "wallpapers/W25.jpg",
-        "wallpapers/W26.jpg",
-        "wallpapers/W27.jpg",
-        "wallpapers/W28.jpg",
-        "wallpapers/W29.jpg",
-        "wallpapers/W30.png",
-        "wallpapers/W31.jpg",
-        "wallpapers/W32.jpg",
-        "wallpapers/W33.jpg",
-        "wallpapers/W34.jpg",
-        "wallpapers/W35.jpg",
-        "wallpapers/W36.jpg",
-        "wallpapers/W37.jpg",
-        "wallpapers/W38.png",
-        "wallpapers/W39.jpg",
-        "wallpapers/W40.jpg",
-        "wallpapers/W41.png",
-        "wallpapers/W42.jpg",
-        "wallpapers/W43.jpg",
-        "wallpapers/W44.jpg",
-        "wallpapers/W45.jpg",
-        "wallpapers/W46.png",
-        "wallpapers/W47.png",
-        "wallpapers/W48.jpg",
-        "wallpapers/W49.jpg",
-        "wallpapers/W50.jpg",
-        "wallpapers/W51.png",
-        "wallpapers/W52.png",
-        "wallpapers/W53.png",
-        "wallpapers/W54.jpg",
-        "wallpapers/W55.png",
-        "wallpapers/W56.jpg",
-        "wallpapers/W57.png",
-        "wallpapers/W58.png",
-        "wallpapers/W59.png",
-        "wallpapers/W60.jpg",
-        "wallpapers/W61.jpg",
-        "wallpapers/W62.jpg"
-    ],
-    "live_wallpapers": [
-        {
-            "video": "live_wallpapers/L1.mp4",
-            "thumbnail": "live_wallpapers/L1.png"
-        },
-        {
-            "video": "live_wallpapers/L2.mp4",
-            "thumbnail": "live_wallpapers/L2.png"
-        },
-        {
-            "video": "live_wallpapers/L3.mp4",
-            "thumbnail": "live_wallpapers/L3.png"
-        },
-        {
-            "video": "live_wallpapers/L4.mp4",
-            "thumbnail": "live_wallpapers/L4.png"
-        },
-        {
-            "video": "live_wallpapers/L5.mp4",
-            "thumbnail": "live_wallpapers/L5.png"
-        },
-        {
-            "video": "live_wallpapers/L6.mp4",
-            "thumbnail": "live_wallpapers/L6.png"
-        },
-        {
-            "video": "live_wallpapers/L7.mp4",
-            "thumbnail": "live_wallpapers/L7.png"
-        },
-        {
-            "video": "live_wallpapers/L8.mp4",
-            "thumbnail": "live_wallpapers/L8.png"
-        },
-        {
-            "video": "live_wallpapers/L9.mp4",
-            "thumbnail": "live_wallpapers/L9.png"
-        },
-        {
-            "video": "live_wallpapers/L10.mp4",
-            "thumbnail": "live_wallpapers/L10.png"
-        },
-        {
-            "video": "live_wallpapers/L11.mp4",
-            "thumbnail": "live_wallpapers/L11.png"
-        },
-        {
-            "video": "live_wallpapers/L12.mp4",
-            "thumbnail": "live_wallpapers/L12.png"
-        },
-        {
-            "video": "live_wallpapers/L13.mp4",
-            "thumbnail": "live_wallpapers/L13.png"
-        },
-        {
-            "video": "live_wallpapers/L14.mp4",
-            "thumbnail": "live_wallpapers/L14.png"
-        },
-        {
-            "video": "live_wallpapers/L15.mp4",
-            "thumbnail": "live_wallpapers/L15.png"
-        },
-        {
-            "video": "live_wallpapers/L16.mp4",
-            "thumbnail": "live_wallpapers/L16.png"
-        },
-        {
-            "video": "live_wallpapers/L17.mp4",
-            "thumbnail": "live_wallpapers/L17.png"
-        },
-        {
-            "video": "live_wallpapers/L18.mp4",
-            "thumbnail": "live_wallpapers/L18.png"
-        },
-        {
-            "video": "live_wallpapers/L19.mp4",
-            "thumbnail": "live_wallpapers/L19.png"
-        },
-        {
-            "video": "live_wallpapers/L20.mp4",
-            "thumbnail": "live_wallpapers/L20.png"
-        },
-        {
-            "video": "live_wallpapers/L21.mp4",
-            "thumbnail": "live_wallpapers/L21.png"
-        },
-        {
-            "video": "live_wallpapers/L22.mp4",
-            "thumbnail": "live_wallpapers/L22.png"
-        },
-        {
-            "video": "live_wallpapers/L23.mp4",
-            "thumbnail": "live_wallpapers/L23.png"
-        }
-    ],
-    "keyboards": [
-        "keyboards/K1.jpg",
-        "keyboards/K2.jpg",
-        "keyboards/K3.jpg",
-        "keyboards/K4.jpg",
-        "keyboards/K5.jpg",
-        "keyboards/K6.jpg",
-        "keyboards/K7.jpg",
-        "keyboards/K8.jpg"
-    ],
-    "zipper": [],
-    "house_ideas": [],
-    "widgets": {
-        "calendar": [
-            "wallpapers/W1.jpg",
-            "wallpapers/W2.jpg",
-            "wallpapers/W3.jpg",
-            "wallpapers/W4.jpg",
-            "wallpapers/W5.png"
-        ],
-        "clock": [
-            "wallpapers/W6.jpg",
-            "wallpapers/W7.jpg",
-            "wallpapers/W8.jpg",
-            "wallpapers/W9.png",
-            "wallpapers/W10.png"
-        ],
-        "digital_clock": [
-            "wallpapers/W11.jpg",
-            "wallpapers/W12.jpg",
-            "wallpapers/W13.jpg",
-            "wallpapers/W14.jpg",
-            "wallpapers/W15.jpg"
-        ]
+  "wallpapers": [
+    "W1.jpg",
+    "W2.jpg",
+    "W3.jpg",
+    "W4.jpg",
+    "W5.jpg",
+    "W6.jpg",
+    "W7.jpg",
+    "W8.jpg",
+    "W9.jpg",
+    "W10.jpg",
+    "W11.jpg",
+    "W12.jpg",
+    "W13.png",
+    "W14.jpg",
+    "W15.jpg",
+    "W16.jpg",
+    "W17.jpg",
+    "W18.jpg",
+    "W19.jpg",
+    "W20.jpg",
+    "W21.png",
+    "W22.png",
+    "W23.png"
+  ],
+  "live_wallpapers": [
+    {
+      "video": "L1.mp4",
+      "thumbnail": "L1.png"
+    },
+    {
+      "video": "L2.mp4",
+      "thumbnail": "L2.png"
+    },
+    {
+      "video": "L3.mp4",
+      "thumbnail": "L3.png"
+    },
+    {
+      "video": "L4.mp4",
+      "thumbnail": "L4.png"
+    },
+    {
+      "video": "L5.mp4",
+      "thumbnail": "L5.png"
+    },
+    {
+      "video": "L6.mp4",
+      "thumbnail": "L6.png"
+    },
+    {
+      "video": "L7.mp4",
+      "thumbnail": "L7.png"
+    },
+    {
+      "video": "L8.mp4",
+      "thumbnail": "L8.png"
+    },
+    {
+      "video": "L9.mp4",
+      "thumbnail": "L9.png"
     }
+  ],
+  "keyboards": [
+    "K1.jpg",
+    "K2.jpg",
+    "K3.jpg",
+    "K4.jpg",
+    "K5.jpg",
+    "K6.jpg",
+    "K7.jpg",
+    "K8.jpg",
+    "K9.jpg",
+    "K10.jpg",
+    "K11.jpg",
+    "K12.jpg"
+  ],
+  "stickers": [
+    "S1.webp",
+    "S2.webp",
+    "S3.webp",
+    "S4.webp",
+    "S5.webp",
+    "S6.webp",
+    "S7.webp",
+    "S8.webp",
+    "S9.webp",
+    "S10.webp",
+    "S11.webp",
+    "S12.webp",
+    "S13.webp",
+    "S14.webp",
+    "S15.webp",
+    "S16.webp",
+    "S17.webp",
+    "S18.webp",
+    "S19.webp",
+    "S20.webp",
+    "S21.webp",
+    "S22.webp",
+    "S23.webp",
+    "S24.webp",
+    "S25.webp",
+    "S26.webp",
+    "S27.webp",
+    "S28.webp",
+    "S29.webp",
+    "S30.webp",
+    "S31.webp",
+    "S32.webp",
+    "S33.webp",
+    "S34.webp",
+    "S35.webp",
+    "S36.webp",
+    "S37.webp",
+    "S38.webp",
+    "S39.webp",
+    "S40.webp",
+    "S41.webp",
+    "S42.webp",
+    "S43.webp",
+    "S44.webp",
+    "S45.webp",
+    "S46.webp",
+    "S47.webp",
+    "S48.webp",
+    "S49.webp",
+    "S50.webp",
+    "S51.webp",
+    "S52.webp",
+    "S53.webp",
+    "S54.webp",
+    "S55.webp",
+    "S56.webp",
+    "S57.webp",
+    "S58.webp",
+    "S59.webp",
+    "S60.webp",
+    "S61.webp",
+    "S62.webp",
+    "S63.webp",
+    "S64.webp",
+    "S65.webp",
+    "S66.webp",
+    "S67.webp",
+    "S68.webp",
+    "S69.webp",
+    "S70.webp",
+    "S71.webp",
+    "S72.webp",
+    "S73.webp",
+    "S74.webp",
+    "S75.webp",
+    "S76.webp",
+    "S77.webp",
+    "S78.webp",
+    "S79.webp",
+    "S80.webp",
+    "S81.webp",
+    "S82.webp",
+    "S83.webp",
+    "S84.webp",
+    "S85.webp",
+    "S86.webp",
+    "S87.webp",
+    "S88.webp",
+    "S89.webp",
+    "S90.webp",
+    "S91.webp",
+    "S92.webp",
+    "S93.webp",
+    "S94.webp",
+    "S95.webp",
+    "S96.webp",
+    "S97.webp",
+    "S98.webp",
+    "S99.webp",
+    "S100.webp",
+    "S101.webp",
+    "S102.webp",
+    "S103.webp",
+    "S104.webp",
+    "S105.webp",
+    "S106.webp",
+    "S107.webp",
+    "S108.webp",
+    "S109.webp",
+    "S110.webp",
+    "S111.webp",
+    "S112.webp",
+    "S113.webp",
+    "S114.webp",
+    "S115.webp",
+    "S116.webp",
+    "S117.webp",
+    "S118.webp",
+    "S119.webp",
+    "S120.webp",
+    "S121.webp",
+    "S122.webp",
+    "S123.webp",
+    "S124.webp",
+    "S125.webp",
+    "S126.webp",
+    "S127.webp",
+    "S128.webp",
+    "S129.webp"
+  ]
 }
